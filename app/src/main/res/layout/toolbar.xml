@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/toolbarcolor">
+    <RelativeLayout
+android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+<!--    <ImageView
+
+            android:contentDescription="menu"
+            android:onClick="MenuShow"
+            android:id="@+id/mainMenu"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/menu"/>-->
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dnevnik_putovanja"
+            android:textColor="@color/white"
+            android:textSize="30sp"/>
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

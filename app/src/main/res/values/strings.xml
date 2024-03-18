@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PUTOVANJA APP</string>
+    <string name="dnevnik_putovanja">Moja putovanja</string>
+    <string name="dodaj_lokaciju">Spremi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_moja_navigacija">MojaNavigacija</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="jeste_li_posjetili_ovo_lokaciju">Jeste li posjetili ovu lokaciju</string>
+    <string name="kratak_opis">Kratak opis:</string>
+    <string name="dodaj_sliku">Dodaj sliku</string>
+    <string name="odaberite_datum_posjeta">Odaberite datum posjeta:</string>
+    <string name="kamera">Kamera</string>
+    <string name="odaberi_datum">Odaberi datum</string>
+    <string name="upisi_lokaciju">Upisi lokaciju:</string>
+    <string name="moja_putovanja">moja putovanja</string>
+    <string name="kratak_opis1">Kratak opis:</string>
+    <string name="datum">Datum:</string>
+    <string name="city">City..</string>
+    <string name="potvrdi_brisanje">POTVRDI BRISANJE</string>
+    <string name="izmjena">Izmjena</string>
+    <string name="izmjeni_podatak">Izmjeni Podatak</string>
+    <string name="unesite_novo_lokaciju_za_ovu_sliku">Unesite novo lokaciju za ovu sliku:</string>
+    <string name="trenutno_nema_podtaka_za_testiranje_napravite_prvi_unos">Trenutno nema podtaka....Za testiranje napravite prvi unos</string>
+    <string name="trenutno_nema_podataka_za_testiranje_napravite_prvi_unos">trenutno_nema_podataka_za_testiranje_napravite_prvi_unos</string>
+</resources>
